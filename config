@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "orgin"]
+	url = https://github.com/Rangikaj80/SBMmainApp.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
+[remote "origin"]
+	url = https://github.com/Rangikaj80/SBMmainApp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
